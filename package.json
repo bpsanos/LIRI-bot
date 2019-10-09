@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/bpsanos/LIRI-bot/issues"
   },
-  "homepage": "https://github.com/bpsanos/LIRI-bot#readme"
+  "homepage": "https://github.com/bpsanos/LIRI-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "request": "^2.88.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
 }
