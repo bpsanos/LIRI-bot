@@ -20,6 +20,15 @@ LIRI is a command line node app that takes four commands:
 * Request (NPM Package)
 * Node-Spotify-API (NPM Package)
 
+## movie-this
 
 ![Image description](https://github.com/bpsanos/LIRI-bot/blob/master/images/movie-this.JPG)
+
+## spotify-this-song
+
+![Image description]()
+
+## do-what-it-says
+
+![Image description]()
 
