@@ -26,9 +26,9 @@ LIRI is a command line node app that takes four commands:
 
 ## spotify-this-song
 
-![Image description]()
+![Image description](https://github.com/bpsanos/LIRI-bot/blob/master/images/spotify-this-song.JPG)
 
 ## do-what-it-says
 
-![Image description]()
+![Image description](https://github.com/bpsanos/LIRI-bot/blob/master/images/do-what-it-says.JPG)
 
